@@ -1,2 +1,3 @@
 # Hello-everyone
-this is first project in github
+
+This is the First project in GitHub.
